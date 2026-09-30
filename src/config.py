@@ -11,7 +11,7 @@ OPERATOR_MAP = {
 SCHEMA_COLUMNS = [
     "radio", "mcc", "net", "area", "cell", "unit", "lon", "lat", "range", "samples", "changeable", "created", "updated", "averageSignal"
 ]
-OPERATOR_COLOR = {
+OPERATOR_COLORS = {
     "Grameenphone" : "#0090ff",
     "Robi" : "#e60000",
     "Banglalink" : "#ff7a00",
